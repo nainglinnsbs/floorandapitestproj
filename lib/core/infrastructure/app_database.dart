@@ -12,7 +12,7 @@ part 'app_database.g.dart';
   ItemDto,
 ])
 abstract class AppDatabase extends FloorDatabase {
-  ItemDao get productDao;
+  ItemDao get itemDao;
 }
 
 class AppFloorDB {
