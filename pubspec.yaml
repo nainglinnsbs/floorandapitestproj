@@ -55,7 +55,7 @@ dependencies:
   auto_route: ^5.0.4
 
   # serialization
-  json_annotation: ^4.7.0
+  json_annotation: ^4.8.1
 
   # data and union classes
   freezed_annotation: ^2.2.0

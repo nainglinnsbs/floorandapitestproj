@@ -1,0 +1,1615 @@
+{
+  "ResponseData": [
+    {
+      "ItemID": "157c9217-9649-4daa-876a-03bdaa1af8ad",
+      "ItemName": "TPCtestip",
+      "ItemNo": "PN-001766",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-24 09:03:28.570",
+      "ModifiedOn": "2023-03-15 15:37:59.440"
+    },
+    {
+      "ItemID": "159c55fa-0fdf-4434-88d1-39c45cb49b10",
+      "ItemName": "Lenovo Laptop(1)",
+      "ItemNo": "PN-001842",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-08-09 14:51:11.253",
+      "ModifiedOn": "2023-08-09 14:51:11.807"
+    },
+    {
+      "ItemID": "16db17a1-fe0c-4c4d-889f-25333d7d08cc",
+      "ItemName": "iPad Air",
+      "ItemNo": "PN-001660",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-23 08:49:25.703",
+      "ModifiedOn": "2022-11-23 08:57:09.967"
+    },
+    {
+      "ItemID": "175617b7-dd69-4c5c-930b-59c49e8df2e5",
+      "ItemName": "PP2",
+      "ItemNo": "PN-001810",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-05-05 10:04:51.620",
+      "ModifiedOn": "2023-05-15 14:10:12.753"
+    },
+    {
+      "ItemID": "1ba7e316-56a6-461f-b011-ae9cf5455b66",
+      "ItemName": "Glass Bottle",
+      "ItemNo": "PN-001844",
+      "GenericID": "0912a79b-cb7a-4f0d-b826-c62a4d08f5ef",
+      "Active": "True",
+      "GenericName": "Material",
+      "CreatedOn": "2023-11-09 10:49:57.257",
+      "ModifiedOn": "2023-11-09 10:52:50.480"
+    },
+    {
+      "ItemID": "1c106a83-2a99-4dce-8c64-483ecacd4cca",
+      "ItemName": "iPad Air",
+      "ItemNo": "PN-001662",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-23 09:56:48.827",
+      "ModifiedOn": "2023-05-05 09:11:33.513"
+    },
+    {
+      "ItemID": "1e83ff9a-a80e-4b50-ab9b-79d7d2b3d6cd",
+      "ItemName": "Sweatshirt(1)",
+      "ItemNo": "PN-001722",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "False",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-01-19 13:18:17.233",
+      "ModifiedOn": "2023-03-15 15:44:45.607"
+    },
+    {
+      "ItemID": "1f1d88ef-bb93-46a0-93af-28b42a248d93",
+      "ItemName": "ice Mentol",
+      "ItemNo": "PN-001827",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-06-08 14:53:05.877",
+      "ModifiedOn": "2023-06-19 09:53:57.000"
+    },
+    {
+      "ItemID": "21af95b8-a73a-46ba-979b-70fbe0ac9955",
+      "ItemName": "Realme C55",
+      "ItemNo": "PN-001831",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-06-19 13:31:05.433",
+      "ModifiedOn": "2023-06-19 13:31:24.413"
+    },
+    {
+      "ItemID": "23b1cca0-7ba6-4bfb-89d8-47bc4212150f",
+      "ItemName": "TestProduct",
+      "ItemNo": "PN-001793",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-23 14:30:24.250",
+      "ModifiedOn": "2023-03-23 14:38:31.417"
+    },
+    {
+      "ItemID": "23d10b4e-00b8-42fd-9016-605a3ac7570f",
+      "ItemName": "test test",
+      "ItemNo": "PN-001802",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "False",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-04-19 10:40:13.243",
+      "ModifiedOn": "2023-04-19 11:09:53.253"
+    },
+    {
+      "ItemID": "25bc2ba0-f796-4612-b555-be72cacb0cef",
+      "ItemName": "Test Test",
+      "ItemNo": "PN-001803",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "False",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-04-19 10:54:13.163",
+      "ModifiedOn": "2023-04-19 11:10:11.780"
+    },
+    {
+      "ItemID": "2c6fee9c-6064-4840-86fb-3e8d4ec7d8a5",
+      "ItemName": "Sneaker Cleaner Kit, 4 in 1 Shoe Care Kit",
+      "ItemNo": "PN-001672",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2022-11-28 10:17:48.217",
+      "ModifiedOn": "2023-02-11 15:27:15.603"
+    },
+    {
+      "ItemID": "2d3e228b-162e-426c-908e-7cb3ee2992fd",
+      "ItemName": "test(2)",
+      "ItemNo": "PN-001698",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2022-12-14 14:20:25.527",
+      "ModifiedOn": "2022-12-14 14:20:31.677"
+    },
+    {
+      "ItemID": "2d85a7f9-5d4a-4ba2-b8f9-f53c2cbc6177",
+      "ItemName": "Key Chron v3",
+      "ItemNo": "PN-001742",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-01 16:00:26.330",
+      "ModifiedOn": "2023-03-15 15:38:38.970"
+    },
+    {
+      "ItemID": "2f3cf12d-a209-4326-8add-ac7c95295ce7",
+      "ItemName": "SY_Product",
+      "ItemNo": "PN-001752",
+      "GenericID": "1799528f-7636-46fd-a9da-c5bcaf688919",
+      "Active": "False",
+      "GenericName": "Pet",
+      "CreatedOn": "2023-02-06 09:46:33.310",
+      "ModifiedOn": "2023-03-15 15:44:30.140"
+    },
+    {
+      "ItemID": "2f6e9b14-785a-4bcc-ad3f-ba99e12dd55b",
+      "ItemName": "Re-Nylon short-sleeved shirt",
+      "ItemNo": "PN-001746",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "True",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-02-02 11:32:48.733",
+      "ModifiedOn": "2023-05-19 14:31:05.953"
+    },
+    {
+      "ItemID": "322baef0-e469-4fc1-98f8-4076c8a8b088",
+      "ItemName": "PNTest",
+      "ItemNo": "PN-001792",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-23 14:10:36.883",
+      "ModifiedOn": "2023-03-23 14:28:58.390"
+    },
+    {
+      "ItemID": "35513d63-d594-43cf-8acb-f8549b568cf1",
+      "ItemName": "AT",
+      "ItemNo": "PN-001779",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "False",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2023-03-10 14:31:20.817",
+      "ModifiedOn": "2023-03-15 15:41:09.850"
+    },
+    {
+      "ItemID": "36248c4e-523e-4288-b4e2-2495ac215563",
+      "ItemName": "test",
+      "ItemNo": "PN-001668",
+      "GenericID": "5f88cd27-1bfb-4918-9a6c-02a16de719b2",
+      "Active": "False",
+      "GenericName": "test",
+      "CreatedOn": "2022-11-24 11:23:41.407",
+      "ModifiedOn": "2022-11-24 11:24:11.153"
+    },
+    {
+      "ItemID": "3b762993-125b-49a4-9b3a-67a21d261989",
+      "ItemName": "HP Laptop",
+      "ItemNo": "PN-001730",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-23 09:52:57.407",
+      "ModifiedOn": "2023-01-27 09:30:25.590"
+    },
+    {
+      "ItemID": "3ba3f0a6-46c6-4afd-804c-727cab5c5dd6",
+      "ItemName": "Best Selling Useful Dissolve Hair Sink Drain Pipe ",
+      "ItemNo": "PN-001677",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-28 11:18:33.677",
+      "ModifiedOn": "2023-02-11 15:24:57.943"
+    },
+    {
+      "ItemID": "3f11aceb-ad82-45d8-91f4-e691210011cc",
+      "ItemName": "KST",
+      "ItemNo": "PN-001732",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-24 13:57:57.413",
+      "ModifiedOn": "2023-03-15 12:06:35.337"
+    },
+    {
+      "ItemID": "447f7418-216a-487d-b0f5-0806acf1c888",
+      "ItemName": "TT",
+      "ItemNo": "PN-001731",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-23 11:21:33.343",
+      "ModifiedOn": "2023-03-15 15:39:19.360"
+    },
+    {
+      "ItemID": "45622595-ba0a-442b-a797-7524aa63f73c",
+      "ItemName": "Imama Hip Seat Baby carrier (Made in Korea)",
+      "ItemNo": "PN-001687",
+      "GenericID": "d2794c63-b84f-441a-9784-dfd65b8206ce",
+      "Active": "True",
+      "GenericName": "Babies u0026 Toys",
+      "CreatedOn": "2022-12-06 15:18:09.160",
+      "ModifiedOn": "2023-02-11 15:25:44.950"
+    },
+    {
+      "ItemID": "456a8d46-e092-4a11-986a-c006fc6537ab",
+      "ItemName": " TP-PF 1 PORTABLE FAN 2400MAH, Portable Fan, Cooling Fan",
+      "ItemNo": "PN-001819",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-05-10 13:33:35.903",
+      "ModifiedOn": "2023-05-10 13:40:01.663"
+    },
+    {
+      "ItemID": "4626f080-9796-4630-933d-4f8d6b7621f6",
+      "ItemName": "Smart Watch",
+      "ItemNo": "PN-001716",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-01-19 09:01:46.500",
+      "ModifiedOn": "2023-01-19 13:14:42.553"
+    },
+    {
+      "ItemID": "462d90dd-d153-41e9-89b1-011350c8342b",
+      "ItemName": "GG Marmont small shoulder bag",
+      "ItemNo": "PN-001755",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-02-14 16:54:55.050",
+      "ModifiedOn": "2023-03-13 15:22:31.753"
+    },
+    {
+      "ItemID": "471d7364-be7b-4b4f-aea0-3a61e351a84b",
+      "ItemName": "Bath Towers",
+      "ItemNo": "PN-001694",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:48:45.707",
+      "ModifiedOn": "2023-03-15 16:07:56.347"
+    },
+    {
+      "ItemID": "493667c1-e56c-4b3c-a63a-014ca1bb766b",
+      "ItemName": "Wireless Mouse",
+      "ItemNo": "PN-001837",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-08-09 14:38:58.767",
+      "ModifiedOn": "2023-08-09 14:38:59.203"
+    },
+    {
+      "ItemID": "4db7f83f-c080-4e3a-a96e-9b5fbeb63848",
+      "ItemName": "MICHAEL KORS EW TZ TOTE",
+      "ItemNo": "PN-001807",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-05-04 10:57:41.830",
+      "ModifiedOn": "2023-05-05 14:55:29.543"
+    },
+    {
+      "ItemID": "53825921-78ba-47cc-8d18-2f3949a28b4f",
+      "ItemName": "God Blessing",
+      "ItemNo": "PN-001820",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "False",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2023-05-10 13:51:03.743",
+      "ModifiedOn": "2023-06-19 09:59:42.450"
+    },
+    {
+      "ItemID": "541c139f-9df8-479f-b48d-d30aa13c7cf9",
+      "ItemName": "Knot Decor Zip Backpack",
+      "ItemNo": "PN-001825",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-05-15 09:35:17.323",
+      "ModifiedOn": "2023-05-15 11:53:30.923"
+    },
+    {
+      "ItemID": "54d1fa15-9139-4fca-8fc5-9813cb5a5f2c",
+      "ItemName": "Test Product 33",
+      "ItemNo": "PN-001750",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-03 13:30:04.113",
+      "ModifiedOn": "2023-02-03 15:00:40.073"
+    },
+    {
+      "ItemID": "54ee2db9-3520-419e-91a9-223a7e812f84",
+      "ItemName": "Fleece towel",
+      "ItemNo": "PN-001697",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 16:01:16.097",
+      "ModifiedOn": "2023-02-11 15:25:24.533"
+    },
+    {
+      "ItemID": "561b0388-1df1-415e-9852-c641c3aad6d4",
+      "ItemName": "Pro Abrasive 90 (1pcs)",
+      "ItemNo": "PN-001679",
+      "GenericID": "5f88cd27-1bfb-4918-9a6c-02a16de719b2",
+      "Active": "True",
+      "GenericName": "test",
+      "CreatedOn": "2022-11-29 13:22:58.377",
+      "ModifiedOn": "2023-02-11 15:26:36.820"
+    },
+    {
+      "ItemID": "56f2e64c-4492-4a58-8015-8e0617c94703",
+      "ItemName": "test",
+      "ItemNo": "PN-001795",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-24 13:12:31.007",
+      "ModifiedOn": "2023-03-24 13:15:11.260"
+    },
+    {
+      "ItemID": "58459675-c58d-44f2-8ebd-cf03e192fadd",
+      "ItemName": "Test",
+      "ItemNo": "PN-001834",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-06-19 16:21:20.403",
+      "ModifiedOn": "2023-08-09 14:24:47.287"
+    },
+    {
+      "ItemID": "592c25fc-ac4b-4cf3-90ef-5d2cccaab886",
+      "ItemName": "Name",
+      "ItemNo": "PN-001769",
+      "GenericID": "ad0d6f61-2882-496f-b233-53684860a84b",
+      "Active": "False",
+      "GenericName": "BBI",
+      "CreatedOn": "2023-03-03 13:41:12.527",
+      "ModifiedOn": "2023-03-15 15:39:39.823"
+    },
+    {
+      "ItemID": "5aec1cde-47cb-4bf2-adbe-0c245d57205c",
+      "ItemName": "test",
+      "ItemNo": "PN-001669",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2022-11-25 11:43:42.413",
+      "ModifiedOn": "2023-03-15 11:39:38.063"
+    },
+    {
+      "ItemID": "5e65cd67-6852-46ca-9be4-bf035fc70893",
+      "ItemName": "Breaker Cobra Monstar",
+      "ItemNo": "PN-001685",
+      "GenericID": "7b3f70b7-f007-4f8e-ad15-17f18fbcf525",
+      "Active": "True",
+      "GenericName": "Sports u0026 Outdoor",
+      "CreatedOn": "2022-12-06 14:46:16.327",
+      "ModifiedOn": "2023-02-11 15:25:00.657"
+    },
+    {
+      "ItemID": "5ef23166-b027-4ad9-8010-0135a3f01d8e",
+      "ItemName": "Test Product",
+      "ItemNo": "PN-001699",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-12-23 11:47:12.797",
+      "ModifiedOn": "2023-03-15 11:39:55.437"
+    },
+    {
+      "ItemID": "5f7f1101-9d5f-4658-9ae5-1f3c0b07f631",
+      "ItemName": "HP Laptop",
+      "ItemNo": "PN-001738",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-01-27 11:41:52.743",
+      "ModifiedOn": "2023-03-15 15:55:38.250"
+    },
+    {
+      "ItemID": "627d9ed9-80fb-43c0-8dc7-2816a05bdbd4",
+      "ItemName": "Apple Laptop",
+      "ItemNo": "PN-001833",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-06-19 14:04:57.793",
+      "ModifiedOn": "2023-06-19 14:04:58.617"
+    },
+    {
+      "ItemID": "63f12829-103c-4177-a04f-5a3401e97e94",
+      "ItemName": "SAMSUNG TV",
+      "ItemNo": "PN-001832",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-06-19 13:31:15.540",
+      "ModifiedOn": "2023-06-19 13:31:16.910"
+    },
+    {
+      "ItemID": "65ab1a4a-4d60-42fd-915e-e4ce811c4d43",
+      "ItemName": "Adapter",
+      "ItemNo": "PN-001840",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-08-09 14:45:18.593",
+      "ModifiedOn": "2023-08-09 15:10:16.550"
+    },
+    {
+      "ItemID": "66aa1739-5672-42de-be36-c0ee682c5bc5",
+      "ItemName": "S8",
+      "ItemNo": "PN-001740",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-01 06:48:29.740",
+      "ModifiedOn": "2023-03-15 15:38:48.247"
+    },
+    {
+      "ItemID": "680eff3b-d95b-408c-86d0-b8cd9151a45b",
+      "ItemName": "Water Bottle ",
+      "ItemNo": "PN-001848",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-11-10 11:38:28.680",
+      "ModifiedOn": "2023-11-10 11:39:57.593"
+    },
+    {
+      "ItemID": "681035ef-e8a6-45ca-ac68-3ee5789f84ad",
+      "ItemName": "Arkar Product",
+      "ItemNo": "PN-001723",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-19 13:18:47.267",
+      "ModifiedOn": "2023-03-15 15:39:31.610"
+    },
+    {
+      "ItemID": "68169cd9-ea82-44ea-91ea-b6936479ef51",
+      "ItemName": "teest",
+      "ItemNo": "PN-001762",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-16 16:32:51.353",
+      "ModifiedOn": "2023-02-16 16:33:01.790"
+    },
+    {
+      "ItemID": "69f5098d-bfb4-4423-971b-d8d3c1a7aaa0",
+      "ItemName": "test 16",
+      "ItemNo": "PN-001718",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "False",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-01-19 09:47:33.797",
+      "ModifiedOn": "2023-03-15 11:40:26.913"
+    },
+    {
+      "ItemID": "6a5822f7-0551-4252-a257-e49dfe8d8156",
+      "ItemName": "Coca Cola",
+      "ItemNo": "PN-001847",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-11-10 11:34:46.217",
+      "ModifiedOn": "2023-11-10 11:35:44.400"
+    },
+    {
+      "ItemID": "6aa3e955-1196-4a0d-b469-fbb7d2cf6d26",
+      "ItemName": "ခေါက်ဆွဲကြော်",
+      "ItemNo": "PN-001849",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-11-10 11:50:25.183",
+      "ModifiedOn": "2023-11-10 11:51:01.343"
+    },
+    {
+      "ItemID": "6b32f27c-f079-4c20-ae75-3f9ffd5c02a7",
+      "ItemName": "Panda",
+      "ItemNo": "PN-001765",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-20 16:46:21.993",
+      "ModifiedOn": "2023-03-15 15:38:12.057"
+    },
+    {
+      "ItemID": "6c96f141-5355-4d49-a677-298d44304ac1",
+      "ItemName": "လုံချည်",
+      "ItemNo": "PN-001835",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "True",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-07-03 14:15:15.847",
+      "ModifiedOn": "2023-08-09 15:53:29.363"
+    },
+    {
+      "ItemID": "6db37f8f-508a-487e-9d6a-abbcf9185c81",
+      "ItemName": "TEST Dress",
+      "ItemNo": "PN-001728",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "False",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-01-23 08:33:50.420",
+      "ModifiedOn": "2023-03-15 11:38:53.400"
+    },
+    {
+      "ItemID": "72b07416-cd65-4a65-9070-62bbfd1fe769",
+      "ItemName": "Ortovox 3+ Beacon Blue Ocean",
+      "ItemNo": "PN-001797",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-04-04 11:55:13.017",
+      "ModifiedOn": "2023-06-19 11:15:28.037"
+    },
+    {
+      "ItemID": "756b8f82-f791-4015-9854-68d08f9a254f",
+      "ItemName": "American Letter Embroidered Jacket Coats",
+      "ItemNo": "PN-001784",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "True",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2022-10-12 19:28:31.880",
+      "ModifiedOn": "2023-03-20 10:19:37.637"
+    },
+    {
+      "ItemID": "759b6a52-f1a4-4c91-90cc-a9fad12a40a7",
+      "ItemName": "PP1",
+      "ItemNo": "PN-001809",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-05-05 09:52:03.363",
+      "ModifiedOn": "2023-05-15 13:54:55.457"
+    },
+    {
+      "ItemID": "798cc280-d292-4215-8b69-410ebacdabc7",
+      "ItemName": "BARCODE HOOD",
+      "ItemNo": "PN-001761",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-02-16 15:07:56.503",
+      "ModifiedOn": "2023-05-04 13:42:51.800"
+    },
+    {
+      "ItemID": "7a0aefd1-2181-4b72-967c-efc27b6f998a",
+      "ItemName": "White Wool V-Neck Knit Sweater",
+      "ItemNo": "PN-001736",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "True",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-01-25 14:12:31.570",
+      "ModifiedOn": "2023-05-04 08:52:47.893"
+    },
+    {
+      "ItemID": "7ade4a57-7525-4662-ab10-8cb1886296bf",
+      "ItemName": "Saddle Bag with Strap",
+      "ItemNo": "PN-001806",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-05-04 10:37:03.987",
+      "ModifiedOn": "2023-05-04 10:53:38.520"
+    },
+    {
+      "ItemID": "7c668796-78dc-4a04-875f-8cf8de969c42",
+      "ItemName": "Tray Table (Side Table) Tray can be removed (Preorder)",
+      "ItemNo": "PN-001690",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:42:16.100",
+      "ModifiedOn": "2023-02-11 15:28:41.100"
+    },
+    {
+      "ItemID": "7c74354d-6f7e-4fb0-bdf6-c032a59c8e3a",
+      "ItemName": "Test Product KK",
+      "ItemNo": "PN-001711",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-16 16:34:40.247",
+      "ModifiedOn": "2023-03-15 11:45:55.873"
+    },
+    {
+      "ItemID": "81a771e8-3df7-4c12-aac9-f468727d9dad",
+      "ItemName": "Test",
+      "ItemNo": "PN-001663",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-23 15:54:18.487",
+      "ModifiedOn": "2023-03-15 11:40:03.963"
+    },
+    {
+      "ItemID": "81c20ac4-c358-42c0-9acc-b479cac91ef6",
+      "ItemName": "Hisense AirCon",
+      "ItemNo": "PN-001781",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-03-13 10:00:31.043",
+      "ModifiedOn": "2023-03-21 08:51:20.493"
+    },
+    {
+      "ItemID": "82d30619-ebd8-4639-9119-30c34c1a201d",
+      "ItemName": "round 2",
+      "ItemNo": "PN-001823",
+      "GenericID": "e40aa384-6558-47b8-975d-c6257c2fe7c4",
+      "Active": "False",
+      "GenericName": "Watch",
+      "CreatedOn": "2023-05-12 14:21:50.020",
+      "ModifiedOn": "2023-05-15 13:44:57.580"
+    },
+    {
+      "ItemID": "84a75b50-f5d8-49d0-8204-b5e7cc949194",
+      "ItemName": "Loral",
+      "ItemNo": "PN-001811",
+      "GenericID": "d2794c63-b84f-441a-9784-dfd65b8206ce",
+      "Active": "True",
+      "GenericName": "Babies u0026 Toys",
+      "CreatedOn": "2023-05-08 10:26:16.390",
+      "ModifiedOn": "2023-05-12 15:52:48.723"
+    },
+    {
+      "ItemID": "854d3615-1ce9-4b09-9af5-63cdff4c3339",
+      "ItemName": "Test(2)",
+      "ItemNo": "PN-001763",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-20 16:35:30.820",
+      "ModifiedOn": "2023-03-15 11:39:07.887"
+    },
+    {
+      "ItemID": "85c6b146-3b60-4846-a4cf-a42ab7743790",
+      "ItemName": "TName",
+      "ItemNo": "PN-001791",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-03-23 13:43:03.483",
+      "ModifiedOn": "2023-03-23 13:44:37.223"
+    },
+    {
+      "ItemID": "863fcefd-b7a9-4624-bd85-3a39f4df5aa3",
+      "ItemName": "Cup",
+      "ItemNo": "PN-001786",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-22 09:21:15.563",
+      "ModifiedOn": "2023-03-22 09:38:46.947"
+    },
+    {
+      "ItemID": "86cd3027-7efc-42ff-b571-54bc931d5e49",
+      "ItemName": "I-Phone",
+      "ItemNo": "PN-001715",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-01-18 16:45:07.940",
+      "ModifiedOn": "2023-01-18 16:51:22.617"
+    },
+    {
+      "ItemID": "8771f1db-0a9d-4b33-b641-28f79bbe807e",
+      "ItemName": "100% Cotton bath towel",
+      "ItemNo": "PN-001696",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:59:23.957",
+      "ModifiedOn": "2023-03-15 16:15:05.267"
+    },
+    {
+      "ItemID": "8792c576-5592-4bc2-8621-31df5cdc4f98",
+      "ItemName": "Twister",
+      "ItemNo": "PN-001851",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-11-14 15:04:10.670",
+      "ModifiedOn": "2023-11-14 15:06:57.950"
+    },
+    {
+      "ItemID": "89fb825d-37e6-44a2-b995-fe8d3da9bc61",
+      "ItemName": "Socks",
+      "ItemNo": "PN-001720",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-01-19 11:56:02.743",
+      "ModifiedOn": "2023-03-15 14:31:14.453"
+    },
+    {
+      "ItemID": "8a591431-e8e9-45c6-9925-67e0a4d7bd1e",
+      "ItemName": "Honda Fit 2022",
+      "ItemNo": "PN-001737",
+      "GenericID": "13f863f7-c9ab-4ca8-8d75-c4c2720fe477",
+      "Active": "False",
+      "GenericName": "Vehicle",
+      "CreatedOn": "2023-01-25 14:27:25.737",
+      "ModifiedOn": "2023-03-15 15:45:12.387"
+    },
+    {
+      "ItemID": "8eaee0af-1da9-4ec4-82a8-a6b09bfb05d4",
+      "ItemName": "START Hoodie",
+      "ItemNo": "PN-001733",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-01-25 10:36:50.827",
+      "ModifiedOn": "2023-04-05 09:18:29.803"
+    },
+    {
+      "ItemID": "90e607df-79e6-401e-9417-64f69df3616d",
+      "ItemName": "SKMEI 9250SB ( Gents )",
+      "ItemNo": "PN-001682",
+      "GenericID": "cf35577b-56cd-4a51-8f8e-5d0b3e5f42b0",
+      "Active": "True",
+      "GenericName": "Watches u0026 Accessories",
+      "CreatedOn": "2022-12-06 11:04:13.343",
+      "ModifiedOn": "2023-02-11 15:27:06.860"
+    },
+    {
+      "ItemID": "92f193ad-40a0-4831-b994-deb6392cc3ee",
+      "ItemName": "Name",
+      "ItemNo": "PN-001805",
+      "GenericID": "20296a96-e8ff-4c66-895f-d7884bc9fd69",
+      "Active": "False",
+      "GenericName": "BBI",
+      "CreatedOn": "2023-04-20 11:09:33.463",
+      "ModifiedOn": "2023-05-04 15:20:36.163"
+    },
+    {
+      "ItemID": "9321c757-685d-4826-a76a-20a44d458229",
+      "ItemName": "Breathable UV Protection Leg Covers Long Comfortable Knee Protector",
+      "ItemNo": "PN-001683",
+      "GenericID": "7b3f70b7-f007-4f8e-ad15-17f18fbcf525",
+      "Active": "True",
+      "GenericName": "Sports u0026 Outdoor",
+      "CreatedOn": "2022-12-06 14:40:00.280",
+      "ModifiedOn": "2023-02-11 15:25:04.510"
+    },
+    {
+      "ItemID": "939089be-3381-48a9-8be6-0acbcdaff8a4",
+      "ItemName": "Christion Dior",
+      "ItemNo": "PN-001657",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2022-10-29 12:03:00.083",
+      "ModifiedOn": "2023-03-20 15:11:56.020"
+    },
+    {
+      "ItemID": "96a5f52d-8b29-4565-8b76-95ab76745d0c",
+      "ItemName": "TestingKK",
+      "ItemNo": "PN-001776",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-08 11:40:41.590",
+      "ModifiedOn": "2023-03-15 11:40:52.790"
+    },
+    {
+      "ItemID": "9741999d-ba11-47c4-8c7e-94dfbc38d003",
+      "ItemName": "Mini Table",
+      "ItemNo": "PN-001689",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:24:30.753",
+      "ModifiedOn": "2023-03-15 16:09:39.100"
+    },
+    {
+      "ItemID": "997895e1-fc1f-4ced-93e1-af54bcd9c9de",
+      "ItemName": "test(2)",
+      "ItemNo": "PN-001670",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-25 15:59:36.123",
+      "ModifiedOn": "2022-11-28 09:48:41.293"
+    },
+    {
+      "ItemID": "99b1015f-4d8f-4fcf-bb9d-fde395d8df06",
+      "ItemName": "SAFFD",
+      "ItemNo": "PN-001794",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-23 14:39:39.697",
+      "ModifiedOn": "2023-05-15 13:55:16.587"
+    },
+    {
+      "ItemID": "9aa929e3-b372-486d-8cc3-f7b993a1d345",
+      "ItemName": "Adapter",
+      "ItemNo": "PN-001838",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-08-09 14:39:09.857",
+      "ModifiedOn": "2023-08-09 15:10:01.257"
+    },
+    {
+      "ItemID": "9cf0cc31-eaae-4c38-9bf1-c88a363754a7",
+      "ItemName": "Fried Chicken - Spicy",
+      "ItemNo": "PN-001850",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-11-10 14:57:43.300",
+      "ModifiedOn": "2023-11-13 08:56:30.630"
+    },
+    {
+      "ItemID": "9ee2b4bd-bce5-4ecf-bfc3-540b1eeb0bbe",
+      "ItemName": "Hard Disk",
+      "ItemNo": "PN-001836",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-08-09 14:31:25.440",
+      "ModifiedOn": "2023-08-09 14:40:01.910"
+    },
+    {
+      "ItemID": "9fc0ba06-481d-4832-93b0-441ee1d9ce59",
+      "ItemName": "RENÉ Mattias Striped waistband dress",
+      "ItemNo": "PN-001653",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2022-10-18 09:22:24.563",
+      "ModifiedOn": "2023-02-11 15:26:39.553"
+    },
+    {
+      "ItemID": "a16478d9-3afb-495d-8996-dafe285db415",
+      "ItemName": "iBis_ Cartoon Mini Folding Table with Cup Holder and Mobile  Tablet Holder for Kids iBis_ Cartoon Mini Folding Table with Cup Holder and Mobile  Tablet",
+      "ItemNo": "PN-001691",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:43:13.203",
+      "ModifiedOn": "2023-02-11 15:25:39.407"
+    },
+    {
+      "ItemID": "a1f8b5d2-80d2-4507-8b86-ed5451a4a258",
+      "ItemName": "MT",
+      "ItemNo": "PN-001709",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-03 14:04:06.507",
+      "ModifiedOn": "2023-01-23 11:47:22.597"
+    },
+    {
+      "ItemID": "a20709d6-7f5a-4f58-9273-18db8e8e301a",
+      "ItemName": "SY",
+      "ItemNo": "PN-001751",
+      "GenericID": "1799528f-7636-46fd-a9da-c5bcaf688919",
+      "Active": "False",
+      "GenericName": "Pet",
+      "CreatedOn": "2023-02-06 09:46:01.803",
+      "ModifiedOn": "2023-03-15 15:43:41.270"
+    },
+    {
+      "ItemID": "a2149592-ada5-4e98-a80b-9b36107dfcbe",
+      "ItemName": "swimsuit for men",
+      "ItemNo": "PN-001684",
+      "GenericID": "7b3f70b7-f007-4f8e-ad15-17f18fbcf525",
+      "Active": "True",
+      "GenericName": "Sports u0026 Outdoor",
+      "CreatedOn": "2022-12-06 14:43:41.437",
+      "ModifiedOn": "2023-02-11 15:27:36.133"
+    },
+    {
+      "ItemID": "a32abde0-b64a-4657-8305-5c76b12afb9e",
+      "ItemName": "test",
+      "ItemNo": "PN-001796",
+      "GenericID": "1799528f-7636-46fd-a9da-c5bcaf688919",
+      "Active": "False",
+      "GenericName": "Pet",
+      "CreatedOn": "2023-03-24 13:45:59.043",
+      "ModifiedOn": "2023-06-19 12:03:23.610"
+    },
+    {
+      "ItemID": "a387b9fb-8b91-474c-a8cc-14626f3b39f8",
+      "ItemName": "PP3",
+      "ItemNo": "PN-001821",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-05-12 09:12:14.883",
+      "ModifiedOn": "2023-05-15 14:12:38.230"
+    },
+    {
+      "ItemID": "a5208778-e28d-4046-9894-1889f80eeb50",
+      "ItemName": "SAKURA FILTER A-1123",
+      "ItemNo": "PN-001829",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-06-13 15:12:47.320",
+      "ModifiedOn": "2023-06-14 09:37:09.770"
+    },
+    {
+      "ItemID": "a63eb799-bd18-4465-b50d-e0d7d8b1bdb0",
+      "ItemName": "Test Product",
+      "ItemNo": "PN-001753",
+      "GenericID": "7b3f70b7-f007-4f8e-ad15-17f18fbcf525",
+      "Active": "False",
+      "GenericName": "Sports u0026 Outdoor",
+      "CreatedOn": "2023-02-08 09:22:09.820",
+      "ModifiedOn": "2023-03-15 11:40:16.053"
+    },
+    {
+      "ItemID": "a7c0e998-9150-4118-a283-a61305ae77dd",
+      "ItemName": "Baby Carrier",
+      "ItemNo": "PN-001686",
+      "GenericID": "d2794c63-b84f-441a-9784-dfd65b8206ce",
+      "Active": "True",
+      "GenericName": "Babies u0026 Toys",
+      "CreatedOn": "2022-12-06 15:16:32.857",
+      "ModifiedOn": "2023-03-15 16:15:47.620"
+    },
+    {
+      "ItemID": "a8aa048c-57a8-44da-a93b-7c0e1c7b0c11",
+      "ItemName": "APP(2)",
+      "ItemNo": "PN-001783",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-03-13 10:34:17.063",
+      "ModifiedOn": "2023-03-15 15:42:07.313"
+    },
+    {
+      "ItemID": "a93726d8-13ca-4843-b704-8202da28ba16",
+      "ItemName": "test test",
+      "ItemNo": "PN-001801",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "False",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-04-19 10:38:18.950",
+      "ModifiedOn": "2023-04-19 10:39:04.633"
+    },
+    {
+      "ItemID": "ad401893-ea16-4c11-9c4c-2114b137db22",
+      "ItemName": "Honda Fit",
+      "ItemNo": "PN-001734",
+      "GenericID": "13f863f7-c9ab-4ca8-8d75-c4c2720fe477",
+      "Active": "False",
+      "GenericName": "Vehicle",
+      "CreatedOn": "2023-01-25 11:07:02.497",
+      "ModifiedOn": "2023-01-25 14:23:15.847"
+    },
+    {
+      "ItemID": "afd0bbdd-85d5-40af-986a-ba46c497661e",
+      "ItemName": "Magic Hair Drying Towel",
+      "ItemNo": "PN-001693",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:47:51.753",
+      "ModifiedOn": "2023-02-11 15:26:16.797"
+    },
+    {
+      "ItemID": "b13bd0cb-682f-4e08-9081-8779f75e6532",
+      "ItemName": "DDD",
+      "ItemNo": "PN-001710",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "False",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2023-01-06 11:46:38.510",
+      "ModifiedOn": "2023-03-15 15:42:24.977"
+    },
+    {
+      "ItemID": "b1f74e98-faf0-4e82-83d9-caa1fb4f9508",
+      "ItemName": "KST",
+      "ItemNo": "PN-001727",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-20 14:07:05.440",
+      "ModifiedOn": "2023-01-24 13:57:17.560"
+    },
+    {
+      "ItemID": "b2f679fd-b028-483e-aedb-e15b0a713bca",
+      "ItemName": "John",
+      "ItemNo": "PN-001772",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-06 10:39:24.887",
+      "ModifiedOn": "2023-03-15 15:37:49.163"
+    },
+    {
+      "ItemID": "b47cbbb4-b65c-4477-badf-079527edd42d",
+      "ItemName": "John(1)",
+      "ItemNo": "PN-001775",
+      "GenericID": "7b3f70b7-f007-4f8e-ad15-17f18fbcf525",
+      "Active": "False",
+      "GenericName": "Sports u0026 Outdoor",
+      "CreatedOn": "2023-03-08 09:26:39.217",
+      "ModifiedOn": "2023-03-15 15:43:10.860"
+    },
+    {
+      "ItemID": "b57e5cfa-a7b2-4cca-b742-a595f63e173a",
+      "ItemName": "Smart Watch SBS",
+      "ItemNo": "PN-001712",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-17 14:19:17.333",
+      "ModifiedOn": "2023-01-19 08:58:30.533"
+    },
+    {
+      "ItemID": "b7bf6ba0-ec12-4b9d-8ab6-190f6daea364",
+      "ItemName": "Sweatshirt",
+      "ItemNo": "PN-001721",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "True",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-01-19 13:17:52.353",
+      "ModifiedOn": "2023-03-15 15:53:13.977"
+    },
+    {
+      "ItemID": "b856fd49-bcab-412a-a429-cc9e2fa18d8b",
+      "ItemName": "Short Sleeved T Shirt Slim",
+      "ItemNo": "PN-001782",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2022-10-12 18:26:51.787",
+      "ModifiedOn": "2023-03-20 16:56:54.673"
+    },
+    {
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "ItemName": "bn",
+      "ItemNo": "PN-001777",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-08 13:54:46.687",
+      "ModifiedOn": "2023-03-15 11:29:09.137"
+    },
+    {
+      "ItemID": "b9d4ed95-999a-4deb-aa22-9075f40f1d8d",
+      "ItemName": "TEST123",
+      "ItemNo": "PN-001717",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-19 09:19:17.617",
+      "ModifiedOn": "2023-03-15 11:39:31.320"
+    },
+    {
+      "ItemID": "bb14343b-630b-4b08-b3c9-57f27e929ee4",
+      "ItemName": "Fashy canvas nylon Strap Luxury Watch",
+      "ItemNo": "PN-001681",
+      "GenericID": "cf35577b-56cd-4a51-8f8e-5d0b3e5f42b0",
+      "Active": "True",
+      "GenericName": "Watches u0026 Accessories",
+      "CreatedOn": "2022-12-06 10:19:33.523",
+      "ModifiedOn": "2023-02-11 15:25:21.817"
+    },
+    {
+      "ItemID": "bb9e6600-3583-4def-8875-df8134ddf286",
+      "ItemName": "Ringke Camera Protector Glass for iPhone 14 Pro14 Pro Max",
+      "ItemNo": "PN-001708",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-12-27 09:49:18.507",
+      "ModifiedOn": "2023-03-15 15:33:11.473"
+    },
+    {
+      "ItemID": "bcb6d4ba-8b0f-4a29-b66a-3cf8cd7bd3a1",
+      "ItemName": "Test Test",
+      "ItemNo": "PN-001808",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "False",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-05-04 11:45:23.897",
+      "ModifiedOn": "2023-05-04 15:21:08.930"
+    },
+    {
+      "ItemID": "bd9e3061-e58f-4559-ad5d-e7975fbbf95f",
+      "ItemName": "TEST (1)",
+      "ItemNo": "PN-001798",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-04-18 09:27:36.297",
+      "ModifiedOn": "2023-04-18 09:29:37.517"
+    },
+    {
+      "ItemID": "bef77c2d-74d1-4e3a-a9dd-0534c5208079",
+      "ItemName": "rtrt",
+      "ItemNo": "PN-001771",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-03 16:20:56.897",
+      "ModifiedOn": "2023-03-03 16:21:48.800"
+    },
+    {
+      "ItemID": "bf55dfb6-bd44-4599-8701-8d4d7012c7a1",
+      "ItemName": "Air Oil Separator Metal End Cup",
+      "ItemNo": "PN-001830",
+      "GenericID": "71da3e8f-5cd5-4051-86f2-a8cb5affcab6",
+      "Active": "True",
+      "GenericName": "Air Filter",
+      "CreatedOn": "2023-06-14 09:11:31.840",
+      "ModifiedOn": "2023-06-14 09:13:50.000"
+    },
+    {
+      "ItemID": "c1bb19b9-8384-498a-947d-31c980984ad2",
+      "ItemName": "MICHAEK KORS Handbag GREEHWICH",
+      "ItemNo": "PN-001799",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "False",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2023-04-19 10:20:53.580",
+      "ModifiedOn": "2023-04-19 10:23:41.047"
+    },
+    {
+      "ItemID": "c35c75ad-5a92-47e4-bdd1-a1248f2784a6",
+      "ItemName": "Panda",
+      "ItemNo": "PN-001764",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-20 16:39:20.013",
+      "ModifiedOn": "2023-02-20 16:41:05.137"
+    },
+    {
+      "ItemID": "c400477f-8dd4-4757-82cc-66840aaab9d6",
+      "ItemName": "Fried Rice",
+      "ItemNo": "PN-001845",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-11-10 08:50:01.750",
+      "ModifiedOn": "2023-11-10 11:21:18.760"
+    },
+    {
+      "ItemID": "c4815fa2-fe9e-452c-a432-486128f4f2b4",
+      "ItemName": "HP Laptop",
+      "ItemNo": "PN-001729",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-23 09:07:22.483",
+      "ModifiedOn": "2023-01-23 09:52:18.047"
+    },
+    {
+      "ItemID": "c4f88f51-1ad8-40ae-b716-c13b7e862aab",
+      "ItemName": "Computer (View Sonic)",
+      "ItemNo": "PN-001678",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-28 15:05:04.760",
+      "ModifiedOn": "2023-02-11 15:25:11.620"
+    },
+    {
+      "ItemID": "c79734f0-17dd-476f-bc65-c025517c9bfb",
+      "ItemName": "Ice",
+      "ItemNo": "PN-001813",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2023-05-10 12:56:18.690",
+      "ModifiedOn": "2023-05-10 12:58:26.377"
+    },
+    {
+      "ItemID": "c918f759-f06a-4f65-9f16-ffccae7afd0c",
+      "ItemName": "Computer",
+      "ItemNo": "PN-001812",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-05-10 10:20:52.180",
+      "ModifiedOn": "2023-06-19 16:20:46.243"
+    },
+    {
+      "ItemID": "ca1c1b83-570a-45ce-843e-86030417a32d",
+      "ItemName": "Mac Mini 2023",
+      "ItemNo": "PN-001735",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-01-25 12:10:47.313",
+      "ModifiedOn": "2023-03-15 10:56:07.800"
+    },
+    {
+      "ItemID": "cc2dfb53-5e3d-4f10-a8ef-65cddf3218fd",
+      "ItemName": "YODO XIUI Face Towel(2 pcs) - Brown Color",
+      "ItemNo": "PN-001695",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "True",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:49:42.697",
+      "ModifiedOn": "2023-02-11 15:28:51.237"
+    },
+    {
+      "ItemID": "d02884c1-d1ae-4dd4-8d0f-285f06828b5a",
+      "ItemName": "APP(1)",
+      "ItemNo": "PN-001778",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "False",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-03-09 15:26:13.433",
+      "ModifiedOn": "2023-03-15 15:44:10.650"
+    },
+    {
+      "ItemID": "d49b6f3f-d2a1-450a-8d0a-025aeff8214a",
+      "ItemName": "Test P Code",
+      "ItemNo": "PN-001754",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-10 11:55:00.820",
+      "ModifiedOn": "2023-03-15 11:39:15.770"
+    },
+    {
+      "ItemID": "d5d106d7-06a9-4050-93bc-7c1c642bff9a",
+      "ItemName": "SAKURA FILTER A-1123",
+      "ItemNo": "PN-001828",
+      "GenericID": "2645abbf-5487-4954-96c2-7360b560a493",
+      "Active": "True",
+      "GenericName": "17801",
+      "CreatedOn": "2023-06-13 14:11:34.873",
+      "ModifiedOn": "2023-06-13 15:01:36.307"
+    },
+    {
+      "ItemID": "d60da2ae-0f91-46cf-a2b8-d8d90f0ca523",
+      "ItemName": "ABCD",
+      "ItemNo": "PN-001745",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-02 11:22:26.227",
+      "ModifiedOn": "2023-03-15 15:38:22.697"
+    },
+    {
+      "ItemID": "d647e1cd-e786-4078-ab38-6347248727f9",
+      "ItemName": "Product A by NNH",
+      "ItemNo": "PN-001843",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-08-09 15:53:47.780",
+      "ModifiedOn": "2023-08-09 16:00:13.413"
+    },
+    {
+      "ItemID": "d81731dd-6e38-4e74-8ed6-a0aa56504784",
+      "ItemName": "PPA",
+      "ItemNo": "PN-001768",
+      "GenericID": "d2794c63-b84f-441a-9784-dfd65b8206ce",
+      "Active": "False",
+      "GenericName": "Babies u0026 Toys",
+      "CreatedOn": "2023-03-03 08:55:40.593",
+      "ModifiedOn": "2023-03-15 15:39:04.883"
+    },
+    {
+      "ItemID": "d9df6a67-baa0-4b08-a30d-290a61584fdb",
+      "ItemName": "Fried Chicken ",
+      "ItemNo": "PN-001846",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-11-10 11:32:11.170",
+      "ModifiedOn": "2023-11-10 11:33:48.917"
+    },
+    {
+      "ItemID": "de211f65-1d9d-4245-bdd8-bcae63bcccbe",
+      "ItemName": "Smart Watch",
+      "ItemNo": "PN-001724",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-01-19 13:19:23.317",
+      "ModifiedOn": "2023-03-15 14:32:55.373"
+    },
+    {
+      "ItemID": "deee346c-91e6-47a8-a069-bca2a4a5d248",
+      "ItemName": "Obsession T-shirt Red",
+      "ItemNo": "PN-001739",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "True",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-01-27 11:55:34.050",
+      "ModifiedOn": "2023-03-20 15:12:46.910"
+    },
+    {
+      "ItemID": "dff8b37e-8701-4ae8-aa36-13bd156eefa5",
+      "ItemName": "TESTING",
+      "ItemNo": "PN-001726",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "False",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-01-20 08:40:43.203",
+      "ModifiedOn": "2023-03-15 11:40:34.790"
+    },
+    {
+      "ItemID": "e35831aa-0450-4137-9f83-f20cd51c4936",
+      "ItemName": "SLKTest",
+      "ItemNo": "PN-001780",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "False",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-03-10 14:42:14.213",
+      "ModifiedOn": "2023-03-15 15:42:56.847"
+    },
+    {
+      "ItemID": "e3cbdbf7-5d17-4651-852f-5b49011f3d2d",
+      "ItemName": "iPhone 13 Brand New",
+      "ItemNo": "PN-001706",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-12-27 09:41:55.777",
+      "ModifiedOn": "2023-03-15 15:23:05.267"
+    },
+    {
+      "ItemID": "e5421e2a-d192-4ffe-81e5-97a19e808643",
+      "ItemName": "ahog",
+      "ItemNo": "PN-001785",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-03-13 10:49:00.183",
+      "ModifiedOn": "2023-03-15 15:41:46.880"
+    },
+    {
+      "ItemID": "e5c6d5fe-0453-42dd-95b7-0470dd1db8a9",
+      "ItemName": "APP",
+      "ItemNo": "PN-001773",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-07 08:49:14.117",
+      "ModifiedOn": "2023-03-15 15:37:41.417"
+    },
+    {
+      "ItemID": "e6e0ef04-733a-4d5b-af0d-2719200da21e",
+      "ItemName": "Airpod",
+      "ItemNo": "PN-001743",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-02-02 10:58:36.483",
+      "ModifiedOn": "2023-03-22 09:40:21.767"
+    },
+    {
+      "ItemID": "e775780f-275c-4ef2-af95-78b7109383ef",
+      "ItemName": "Wired Keyboard",
+      "ItemNo": "PN-001841",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-08-09 14:48:37.740",
+      "ModifiedOn": "2023-08-09 14:48:38.127"
+    },
+    {
+      "ItemID": "ea02b962-c9b1-4121-91f1-5d018c2d4784",
+      "ItemName": "Apple Watch Seri 8",
+      "ItemNo": "PN-001741",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-02-01 07:11:29.523",
+      "ModifiedOn": "2023-03-15 11:38:25.010"
+    },
+    {
+      "ItemID": "ea5529c1-9140-45cc-9a86-78a1964ae6a0",
+      "ItemName": "APP",
+      "ItemNo": "PN-001767",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "False",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-03-03 08:47:07.417",
+      "ModifiedOn": "2023-03-15 15:40:46.217"
+    },
+    {
+      "ItemID": "ec5cdf71-46ce-4250-b90a-f47835ffb07f",
+      "ItemName": "Survey",
+      "ItemNo": "PN-001664",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-23 16:01:03.643",
+      "ModifiedOn": "2023-06-19 09:54:58.257"
+    },
+    {
+      "ItemID": "eff28fd0-d39f-4127-875d-94dea1c9b60c",
+      "ItemName": "Green Tech Keyboard",
+      "ItemNo": "PN-001747",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-02-02 14:10:16.527",
+      "ModifiedOn": "2023-02-02 14:11:14.133"
+    },
+    {
+      "ItemID": "f15a0475-5b0e-4c4d-b86c-895b1db16c74",
+      "ItemName": "TEST23",
+      "ItemNo": "PN-001725",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-01-19 13:33:04.323",
+      "ModifiedOn": "2023-03-15 11:39:21.730"
+    },
+    {
+      "ItemID": "f4783d44-faa2-4f4f-8471-1aaf5a3b31ef",
+      "ItemName": "Gabine Saddle Bag - Black",
+      "ItemNo": "PN-001654",
+      "GenericID": "e3328c58-6a72-4927-aae5-23296ffe8de6",
+      "Active": "True",
+      "GenericName": "Women Fashion",
+      "CreatedOn": "2022-10-19 13:27:25.507",
+      "ModifiedOn": "2023-02-11 15:25:27.487"
+    },
+    {
+      "ItemID": "f511a67f-d27c-4791-a70e-346b5cc9bd82",
+      "ItemName": "Lenovo laptop",
+      "ItemNo": "PN-001667",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-24 10:39:54.150",
+      "ModifiedOn": "2023-02-11 15:26:11.373"
+    },
+    {
+      "ItemID": "f540384f-9449-4d2a-b3d3-f109c4ceb428",
+      "ItemName": "Name",
+      "ItemNo": "PN-001770",
+      "GenericID": "e9f0a522-935a-447e-bc19-cb3eee519e1b",
+      "Active": "False",
+      "GenericName": "BBj",
+      "CreatedOn": "2023-03-03 13:48:12.713",
+      "ModifiedOn": "2023-03-15 15:41:26.240"
+    },
+    {
+      "ItemID": "f67f9808-bec4-45ef-ae8f-0c5ae0419989",
+      "ItemName": "Towel (2 pieces) @SELFIEE.YGN",
+      "ItemNo": "PN-001692",
+      "GenericID": "a2458df1-5436-459a-afb4-b8d997e9b2b7",
+      "Active": "False",
+      "GenericName": "Home u0026 Lifestyle",
+      "CreatedOn": "2022-12-06 15:46:34.197",
+      "ModifiedOn": "2023-05-15 14:06:40.070"
+    },
+    {
+      "ItemID": "f6a117ea-1e63-45a2-a0ec-105e4c8ae199",
+      "ItemName": "SBS Smart Watch",
+      "ItemNo": "PN-001713",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-01-17 16:32:36.820",
+      "ModifiedOn": "2023-01-18 10:30:10.033"
+    },
+    {
+      "ItemID": "f75f7f78-fc1c-472b-8598-f814a463bb87",
+      "ItemName": "A Nyein",
+      "ItemNo": "PN-001774",
+      "GenericID": "",
+      "Active": "False",
+      "GenericName": null,
+      "CreatedOn": "2023-03-07 14:33:45.123",
+      "ModifiedOn": "2023-03-15 15:37:26.070"
+    },
+    {
+      "ItemID": "f8adcbc1-7886-43c0-9dc1-02caf602eeaf",
+      "ItemName": "USB Stick",
+      "ItemNo": "PN-001839",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-08-09 14:41:29.767",
+      "ModifiedOn": "2023-08-09 14:41:30.073"
+    },
+    {
+      "ItemID": "f8ef0728-573f-4843-8cb7-57fa28bbbaf7",
+      "ItemName": "Mobiles",
+      "ItemNo": "PN-001655",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-10-19 14:27:40.523",
+      "ModifiedOn": "2023-02-11 15:26:28.527"
+    },
+    {
+      "ItemID": "f9d256a0-25e7-44a5-9e1d-da0bab55f6a2",
+      "ItemName": "test16(1)",
+      "ItemNo": "PN-001719",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "False",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2023-01-19 09:48:07.527",
+      "ModifiedOn": "2023-01-19 10:41:34.783"
+    },
+    {
+      "ItemID": "f9ddec1d-3982-48ae-9fc3-46b6527b6caa",
+      "ItemName": "EYEGLASS",
+      "ItemNo": "PN-001822",
+      "GenericID": "",
+      "Active": "True",
+      "GenericName": null,
+      "CreatedOn": "2023-05-12 14:11:31.717",
+      "ModifiedOn": "2023-05-16 10:21:23.550"
+    },
+    {
+      "ItemID": "fa24796d-3950-44b3-ba57-94be4e556f63",
+      "ItemName": "Lenovo laptop(1)",
+      "ItemNo": "PN-001671",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "False",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-11-25 16:10:02.797",
+      "ModifiedOn": "2022-11-28 09:48:53.043"
+    },
+    {
+      "ItemID": "fa8a870d-851c-4b99-bfd2-5fff8a64c1fb",
+      "ItemName": "Skechers - Boys - Lifestyle",
+      "ItemNo": "PN-001680",
+      "GenericID": "562bd20c-09e4-402d-86e4-888227d95655",
+      "Active": "True",
+      "GenericName": "Men Fashion",
+      "CreatedOn": "2022-11-29 13:25:36.507",
+      "ModifiedOn": "2023-02-11 15:27:04.267"
+    },
+    {
+      "ItemID": "fc11bbc1-0fbc-42fa-b65d-cc912ded3bf3",
+      "ItemName": "iPhone 14 Pro Max",
+      "ItemNo": "PN-001656",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2022-10-20 09:18:29.163",
+      "ModifiedOn": "2023-03-15 15:32:08.203"
+    },
+    {
+      "ItemID": "fd4b8066-08f9-473a-af4c-f21183c7e54f",
+      "ItemName": "Green Tech Keyboard",
+      "ItemNo": "PN-001744",
+      "GenericID": "2b3b434b-7b5d-43b2-bd5b-305ca50b3924",
+      "Active": "True",
+      "GenericName": "Electronic Devices",
+      "CreatedOn": "2023-02-02 11:03:03.563",
+      "ModifiedOn": "2023-03-22 13:49:22.697"
+    }
+  ],
+  "ResponseInfo": { "Code": "0", "Message": "Success" }
+}

@@ -1,0 +1,1485 @@
+{
+  "ResponseData": [
+    {
+      "ItemUOMID": "3517094e-1a33-4325-ab83-ff76f46b8140",
+      "ItemID": "02161612-a0f6-4279-afab-9b214746a0ae",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-03 13:11:24.833",
+      "ModifiedOn": "2023-03-15 09:32:00.000",
+      "Price": "2800.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "81d3a75b-9e1f-4063-9654-dd04ac90634e",
+      "ItemID": "02161612-a0f6-4279-afab-9b214746a0ae",
+      "UomLabel": "Pack",
+      "Active": "False",
+      "CreatedOn": "2023-02-03 13:25:27.687",
+      "ModifiedOn": "2023-03-15 09:38:50.680",
+      "Price": "0",
+      "DisplayOrder": "0"
+    },
+    {
+      "ItemUOMID": "76c41efc-4b31-4a10-b18e-d40e57bb024d",
+      "ItemID": "0680d536-572c-4a4b-96cc-f8f1ede99dd7",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-04-19 10:24:32.623",
+      "ModifiedOn": "2023-04-19 10:36:00.000",
+      "Price": "50000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "923edaaa-4eb0-4352-a28e-1467a2def841",
+      "ItemID": "098781bd-c300-4725-a7bc-3c89eb0a503d",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-23 08:52:29.550",
+      "ModifiedOn": "2022-11-23 08:55:00.000",
+      "Price": "3200.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "216288e4-ad3f-422d-883e-fc47d758476e",
+      "ItemID": "0d617113-b680-46c2-9805-15e4d9e31e93",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-22 16:54:13.430",
+      "ModifiedOn": "2023-08-17 16:48:00.000",
+      "Price": "200000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "97495c10-c40f-4d2a-a2d2-346b5fa5cc7a",
+      "ItemID": "0e3a7734-9e45-4d69-abd4-ba947f3f89b2",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-29 12:31:29.107",
+      "ModifiedOn": "2022-10-29 12:34:00.000",
+      "Price": "500.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "796b60fd-1143-4403-8e77-e1d92ae7ee62",
+      "ItemID": "0e447ab0-1604-41ef-bc1d-5b537e8f189b",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-04-19 16:31:32.363",
+      "ModifiedOn": "2023-04-19 16:31:00.000",
+      "Price": "10.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "3fada9af-07ab-4305-a6a4-528a7d1d0715",
+      "ItemID": "0fc1b3a9-6c35-416f-b1b1-68dd148cf279",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-03 08:47:40.283",
+      "ModifiedOn": "2023-03-15 09:22:00.000",
+      "Price": "5500.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "4b387f3d-10c2-4dbc-afae-c1d3feeff81c",
+      "ItemID": "107fad93-45f2-4c6e-a54b-c5163dbf8c24",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:22:04.657",
+      "ModifiedOn": "2023-01-10 15:45:00.000",
+      "Price": "10000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "84784db6-36ba-4e49-8649-0ce57396cc13",
+      "ItemID": "159c55fa-0fdf-4434-88d1-39c45cb49b10",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-08-09 14:51:11.393",
+      "ModifiedOn": "2023-08-09 14:58:00.000",
+      "Price": "800000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "2fe6e160-6991-45de-aeaa-9161c5f8f21a",
+      "ItemID": "1ba7e316-56a6-461f-b011-ae9cf5455b66",
+      "UomLabel": "Unit",
+      "Active": "True",
+      "CreatedOn": "2023-11-09 10:52:34.623",
+      "ModifiedOn": "2023-11-09 10:52:34.640",
+      "Price": "0",
+      "DisplayOrder": "0"
+    },
+    {
+      "ItemUOMID": "927ef387-d3f5-45e4-81ba-ef2ca4e7c7aa",
+      "ItemID": "1ba7e316-56a6-461f-b011-ae9cf5455b66",
+      "UomLabel": "PCs",
+      "Active": "False",
+      "CreatedOn": "2023-11-09 10:49:57.383",
+      "ModifiedOn": "2023-11-09 10:52:43.117",
+      "Price": "200.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "076f2363-9a1c-419f-827a-692d423f197d",
+      "ItemID": "1c106a83-2a99-4dce-8c64-483ecacd4cca",
+      "UomLabel": "Box",
+      "Active": "True",
+      "CreatedOn": "2022-11-23 10:01:43.463",
+      "ModifiedOn": "2022-11-23 10:01:43.467",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "13beb23d-5f3f-4987-8407-5aea70231374",
+      "ItemID": "1c106a83-2a99-4dce-8c64-483ecacd4cca",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-23 09:56:48.910",
+      "ModifiedOn": "2023-03-14 11:45:00.000",
+      "Price": "20000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "e9fa797d-947d-4e31-9403-5a3710d75072",
+      "ItemID": "2c6fee9c-6064-4840-86fb-3e8d4ec7d8a5",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-28 10:17:48.767",
+      "ModifiedOn": "2022-11-28 10:17:00.000",
+      "Price": "1500.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "4f5dd556-043e-4a27-aabb-95143b8c2355",
+      "ItemID": "2f3cf12d-a209-4326-8add-ac7c95295ce7",
+      "UomLabel": "packs(1)",
+      "Active": "False",
+      "CreatedOn": "2023-02-28 15:32:26.333",
+      "ModifiedOn": "2023-02-28 15:32:32.790",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "a0cdbc0e-c9e4-448a-9322-04ff804b27d7",
+      "ItemID": "2f6e9b14-785a-4bcc-ad3f-ba99e12dd55b",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-02 11:32:48.767",
+      "ModifiedOn": "2023-03-15 11:33:00.000",
+      "Price": "3000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "da036f11-8d9a-4069-ba10-389c162d9509",
+      "ItemID": "3ba3f0a6-46c6-4afd-804c-727cab5c5dd6",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-28 11:18:37.763",
+      "ModifiedOn": "2022-11-28 11:18:00.000",
+      "Price": "12000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "4e70315e-e1a3-473d-b550-82c0365579d4",
+      "ItemID": "45622595-ba0a-442b-a797-7524aa63f73c",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:18:09.187",
+      "ModifiedOn": "2022-12-06 15:18:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "d953d884-415d-4a6b-8419-0ccb9f0cdc3a",
+      "ItemID": "456a8d46-e092-4a11-986a-c006fc6537ab",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-10 13:33:35.983",
+      "ModifiedOn": "2023-05-10 13:34:00.000",
+      "Price": "25.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "a1bc5475-a3af-4d21-b84b-0edcedf1a570",
+      "ItemID": "4626f080-9796-4630-933d-4f8d6b7621f6",
+      "UomLabel": "Box",
+      "Active": "False",
+      "CreatedOn": "2023-01-19 11:03:12.610",
+      "ModifiedOn": "2023-01-19 13:14:24.017",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "e2fb874f-0801-4c33-8415-1c1df3cb3b31",
+      "ItemID": "4626f080-9796-4630-933d-4f8d6b7621f6",
+      "UomLabel": "PCs",
+      "Active": "False",
+      "CreatedOn": "2023-01-19 09:01:46.840",
+      "ModifiedOn": "2023-01-19 13:14:16.903",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "f9e58fa8-2357-4c92-9967-57432c7fd63a",
+      "ItemID": "4626f080-9796-4630-933d-4f8d6b7621f6",
+      "UomLabel": "Box",
+      "Active": "False",
+      "CreatedOn": "2023-01-19 11:03:00.957",
+      "ModifiedOn": "2023-01-19 11:03:07.000",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "602bc937-3709-4fbb-b774-2a50f1f4f2a2",
+      "ItemID": "462d90dd-d153-41e9-89b1-011350c8342b",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-14 16:54:55.303",
+      "ModifiedOn": "2023-02-15 09:47:00.000",
+      "Price": "1200.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "30ab5df2-9aa6-4ede-ab32-55e7f5d80bf2",
+      "ItemID": "471d7364-be7b-4b4f-aea0-3a61e351a84b",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:48:45.730",
+      "ModifiedOn": "2023-01-10 15:49:00.000",
+      "Price": "8000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "810be5de-8d72-4bf3-af1e-bd325030720a",
+      "ItemID": "493667c1-e56c-4b3c-a63a-014ca1bb766b",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-08-09 14:38:58.897",
+      "ModifiedOn": "2023-08-09 14:40:00.000",
+      "Price": "25000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "b2b254a5-aeac-4b2c-ad18-014a57120973",
+      "ItemID": "4db7f83f-c080-4e3a-a96e-9b5fbeb63848",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-04 10:57:41.897",
+      "ModifiedOn": "2023-05-04 11:00:00.000",
+      "Price": "50000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "9e2652d9-e7ee-4de9-ae97-cf26c8666b0c",
+      "ItemID": "541c139f-9df8-479f-b48d-d30aa13c7cf9",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-15 09:35:17.407",
+      "ModifiedOn": "2023-05-15 09:37:00.000",
+      "Price": "286.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "b013c872-21db-48f7-9465-e43793a2bf52",
+      "ItemID": "54ee2db9-3520-419e-91a9-223a7e812f84",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 16:01:16.130",
+      "ModifiedOn": "2022-12-27 14:46:00.000",
+      "Price": "100000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "9d272e05-0d1f-424c-bcf6-35aeadc029a6",
+      "ItemID": "561b0388-1df1-415e-9852-c641c3aad6d4",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-29 13:22:58.940",
+      "ModifiedOn": "2023-01-10 15:49:00.000",
+      "Price": "5000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "b3096b24-1000-426d-a32b-9d34ac8af78e",
+      "ItemID": "561b0388-1df1-415e-9852-c641c3aad6d4",
+      "UomLabel": "12PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-01 11:36:20.027",
+      "ModifiedOn": "2022-12-01 11:36:20.033",
+      "Price": "0",
+      "DisplayOrder": "3"
+    },
+    {
+      "ItemUOMID": "baf0a4ad-3850-4e23-a82c-726048d924ef",
+      "ItemID": "561b0388-1df1-415e-9852-c641c3aad6d4",
+      "UomLabel": "Box ",
+      "Active": "True",
+      "CreatedOn": "2022-12-01 11:35:44.023",
+      "ModifiedOn": "2022-12-01 11:35:44.040",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "14c6fb79-e2e1-4b29-b3b0-6b90fd39493d",
+      "ItemID": "58459675-c58d-44f2-8ebd-cf03e192fadd",
+      "UomLabel": "PCs(1)",
+      "Active": "False",
+      "CreatedOn": "2023-07-03 16:54:19.660",
+      "ModifiedOn": "2023-07-03 16:54:24.567",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "622db3f8-db31-488f-989c-37d8a6bc128b",
+      "ItemID": "5e65cd67-6852-46ca-9be4-bf035fc70893",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 14:46:16.357",
+      "ModifiedOn": "2022-12-06 14:46:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "58e34093-ab29-4fcb-ba87-656a1b8403ef",
+      "ItemID": "5f7f1101-9d5f-4658-9ae5-1f3c0b07f631",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-27 11:41:53.173",
+      "ModifiedOn": "2023-01-27 11:48:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "0ca8791f-bf29-435a-a120-ace86a5a85c1",
+      "ItemID": "627d9ed9-80fb-43c0-8dc7-2816a05bdbd4",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-06-19 14:04:58.197",
+      "ModifiedOn": "2023-06-19 14:04:00.000",
+      "Price": "150000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "2738e362-8758-4de8-bb69-3df2c4541caa",
+      "ItemID": "627d9ed9-80fb-43c0-8dc7-2816a05bdbd4",
+      "UomLabel": "BOXs",
+      "Active": "True",
+      "CreatedOn": "2023-06-19 14:07:28.537",
+      "ModifiedOn": "2023-06-19 14:07:28.553",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "939647ae-4c14-4dc2-8dc9-6b7f1b9d40d0",
+      "ItemID": "63f12829-103c-4177-a04f-5a3401e97e94",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-06-19 13:31:15.887",
+      "ModifiedOn": "2023-06-19 13:35:00.000",
+      "Price": "1500000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "c30ed43b-5d37-4451-990f-11f5ceedfb37",
+      "ItemID": "65ab1a4a-4d60-42fd-915e-e4ce811c4d43",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-08-09 14:45:18.727",
+      "ModifiedOn": "2023-08-09 14:46:00.000",
+      "Price": "80000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "8ab290f1-babb-452e-9047-6df4ce59d265",
+      "ItemID": "680eff3b-d95b-408c-86d0-b8cd9151a45b",
+      "UomLabel": "Packing ",
+      "Active": "True",
+      "CreatedOn": "2023-11-10 14:26:20.727",
+      "ModifiedOn": "2023-11-10 14:26:20.750",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "9e8bbb8c-b77e-4645-a01f-4418fa4a8dae",
+      "ItemID": "680eff3b-d95b-408c-86d0-b8cd9151a45b",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-11-10 11:38:28.727",
+      "ModifiedOn": "2023-11-10 14:06:00.000",
+      "Price": "500.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "10b44bcd-7a52-4313-b792-8be5d043bd5c",
+      "ItemID": "6a5822f7-0551-4252-a257-e49dfe8d8156",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-11-10 11:34:46.247",
+      "ModifiedOn": "2023-11-10 11:34:00.000",
+      "Price": "1200.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "b34f0ee7-d72c-42ba-9006-9c5e9e3145f4",
+      "ItemID": "6aa3e955-1196-4a0d-b469-fbb7d2cf6d26",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-11-10 11:50:25.267",
+      "ModifiedOn": "2023-11-10 11:50:00.000",
+      "Price": "5000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "34b691cb-be76-45ad-835f-0cac923d2309",
+      "ItemID": "6c96f141-5355-4d49-a677-298d44304ac1",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-07-03 14:15:16.197",
+      "ModifiedOn": "2023-07-03 14:15:00.000",
+      "Price": "19000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "6aae547f-eae7-4f4a-ac14-b91372a6c7ab",
+      "ItemID": "6c96f141-5355-4d49-a677-298d44304ac1",
+      "UomLabel": "Feet",
+      "Active": "True",
+      "CreatedOn": "2023-07-03 14:18:37.187",
+      "ModifiedOn": "2023-07-03 14:18:37.247",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "c8847083-c7a0-47fd-9d50-e11da2f79704",
+      "ItemID": "6c96f141-5355-4d49-a677-298d44304ac1",
+      "UomLabel": "Meter",
+      "Active": "True",
+      "CreatedOn": "2023-07-03 14:18:16.993",
+      "ModifiedOn": "2023-07-03 14:18:17.013",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "bdd693ae-8828-4397-9e81-40ab0758ffe8",
+      "ItemID": "72b07416-cd65-4a65-9070-62bbfd1fe769",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-04-04 11:55:13.113",
+      "ModifiedOn": "2023-04-04 11:55:00.000",
+      "Price": "100000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "fd3a59ed-9041-4f20-a3a4-52e46cad4bae",
+      "ItemID": "756b8f82-f791-4015-9854-68d08f9a254f",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-12 19:28:32.507",
+      "ModifiedOn": "2023-02-16 15:40:00.000",
+      "Price": "211000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "10e4b7ea-8535-48a7-9fbd-ba28ef501f54",
+      "ItemID": "798cc280-d292-4215-8b69-410ebacdabc7",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-16 15:07:56.687",
+      "ModifiedOn": "2023-02-16 15:14:00.000",
+      "Price": "30000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "4a77d326-1b8b-4dcd-96d4-3a6abe609ca6",
+      "ItemID": "7a0aefd1-2181-4b72-967c-efc27b6f998a",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-25 14:12:31.733",
+      "ModifiedOn": "2023-01-25 14:26:00.000",
+      "Price": "2000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "7110d92f-ec3c-4f8a-b470-b881e4f79403",
+      "ItemID": "7ade4a57-7525-4662-ab10-8cb1886296bf",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-04 10:37:04.090",
+      "ModifiedOn": "2023-05-04 10:37:00.000",
+      "Price": "360000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "be20683f-fba0-4d85-b1a3-8c80a99a3015",
+      "ItemID": "7c668796-78dc-4a04-875f-8cf8de969c42",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:42:16.137",
+      "ModifiedOn": "2022-12-06 15:42:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "9c5c9bc2-f26d-464f-9b00-f871bb8d5d7d",
+      "ItemID": "81c20ac4-c358-42c0-9acc-b479cac91ef6",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-03-13 10:00:31.157",
+      "ModifiedOn": "2023-03-15 11:30:00.000",
+      "Price": "2500.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "8edd6787-8c91-4acb-9e35-1b76d36b3d80",
+      "ItemID": "84a75b50-f5d8-49d0-8204-b5e7cc949194",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-08 10:26:16.690",
+      "ModifiedOn": "2023-05-08 10:32:00.000",
+      "Price": "1000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "9e29f326-4382-49a1-9f57-e8df81b1a66e",
+      "ItemID": "85c6b146-3b60-4846-a4cf-a42ab7743790",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-03-23 13:43:03.567",
+      "ModifiedOn": "2023-03-23 13:43:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "775cc83e-5679-45cd-8401-4dcd5b5cd874",
+      "ItemID": "8771f1db-0a9d-4b33-b641-28f79bbe807e",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:59:23.990",
+      "ModifiedOn": "2022-12-06 15:59:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "af6afc8f-0f15-43dc-b416-2bca490b5204",
+      "ItemID": "8792c576-5592-4bc2-8621-31df5cdc4f98",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-11-14 15:04:10.757",
+      "ModifiedOn": "2023-11-14 15:05:00.000",
+      "Price": "28000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "568a6a95-e73a-4c00-a0df-dcd5c4b80663",
+      "ItemID": "89fb825d-37e6-44a2-b995-fe8d3da9bc61",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-19 11:56:02.983",
+      "ModifiedOn": "2023-01-20 15:03:00.000",
+      "Price": "50.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "62fa5166-cf81-473e-90b6-11cb2fb1047f",
+      "ItemID": "8eaee0af-1da9-4ec4-82a8-a6b09bfb05d4",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-25 10:36:50.973",
+      "ModifiedOn": "2023-03-20 15:28:00.000",
+      "Price": "1000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "8992a320-3223-4b77-9d51-000a410ffb23",
+      "ItemID": "90e607df-79e6-401e-9417-64f69df3616d",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 11:04:13.373",
+      "ModifiedOn": "2022-12-28 09:57:00.000",
+      "Price": "6000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "e57599cc-8c90-4f4e-b823-a0bc740414f8",
+      "ItemID": "9321c757-685d-4826-a76a-20a44d458229",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 14:40:00.323",
+      "ModifiedOn": "2022-12-06 14:40:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "0851d387-e4d9-4030-8f23-95a869cd6f50",
+      "ItemID": "939089be-3381-48a9-8be6-0acbcdaff8a4",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-29 12:03:00.133",
+      "ModifiedOn": "2022-11-01 11:05:00.000",
+      "Price": "650.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "4abc2b2f-d02d-4c19-ac15-4a30bea60de5",
+      "ItemID": "96a5f52d-8b29-4565-8b76-95ab76745d0c",
+      "UomLabel": "htrstrj",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:14:43.780",
+      "ModifiedOn": "2023-03-08 14:21:14.897",
+      "Price": "0",
+      "DisplayOrder": "153"
+    },
+    {
+      "ItemUOMID": "53168668-1358-413c-b0de-35f8b961e07b",
+      "ItemID": "96a5f52d-8b29-4565-8b76-95ab76745d0c",
+      "UomLabel": "sasd",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:05:31.483",
+      "ModifiedOn": "2023-03-08 14:21:16.913",
+      "Price": "0",
+      "DisplayOrder": "101"
+    },
+    {
+      "ItemUOMID": "56342c4b-53a8-4f83-88e4-4771a2f04d0a",
+      "ItemID": "96a5f52d-8b29-4565-8b76-95ab76745d0c",
+      "UomLabel": "adad",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:14:30.917",
+      "ModifiedOn": "2023-03-08 14:21:11.460",
+      "Price": "0",
+      "DisplayOrder": "2365"
+    },
+    {
+      "ItemUOMID": "865eb3b9-b124-498e-80fb-e0ea28f1cdfb",
+      "ItemID": "96a5f52d-8b29-4565-8b76-95ab76745d0c",
+      "UomLabel": "Box",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 11:41:22.030",
+      "ModifiedOn": "2023-03-08 14:21:21.957",
+      "Price": "1000.00",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "d9f6a30b-8c36-441f-8750-2b7d7b81a92c",
+      "ItemID": "96a5f52d-8b29-4565-8b76-95ab76745d0c",
+      "UomLabel": "cvcv",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:05:19.213",
+      "ModifiedOn": "2023-03-08 14:21:19.030",
+      "Price": "0",
+      "DisplayOrder": "10"
+    },
+    {
+      "ItemUOMID": "d2e586d2-e89d-46e8-97a0-e38ae4e5b3f7",
+      "ItemID": "9741999d-ba11-47c4-8c7e-94dfbc38d003",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:24:30.783",
+      "ModifiedOn": "2022-12-06 15:24:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "7e14f136-f698-4eb0-83ed-edbdcaa117f7",
+      "ItemID": "9cf0cc31-eaae-4c38-9bf1-c88a363754a7",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-11-10 14:57:43.353",
+      "ModifiedOn": "2023-11-10 15:00:00.000",
+      "Price": "15000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "26ae7888-d462-4053-8262-bf7a0e060bea",
+      "ItemID": "9ee2b4bd-bce5-4ecf-bfc3-540b1eeb0bbe",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-08-09 14:31:25.553",
+      "ModifiedOn": "2023-08-09 14:34:00.000",
+      "Price": "60000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "84403ffe-de62-4759-80d6-9ae25c247f6d",
+      "ItemID": "9fc0ba06-481d-4832-93b0-441ee1d9ce59",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-18 09:22:24.647",
+      "ModifiedOn": "2022-10-18 09:45:00.000",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "8aaee15b-a041-419c-b4af-89310fe631c2",
+      "ItemID": "a16478d9-3afb-495d-8996-dafe285db415",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:43:13.237",
+      "ModifiedOn": "2022-12-06 15:43:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "46b92767-f6e7-452f-adea-32980e001217",
+      "ItemID": "a2149592-ada5-4e98-a80b-9b36107dfcbe",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 14:43:41.473",
+      "ModifiedOn": "2022-12-06 14:43:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "71239fe1-1503-45ee-a3ac-9581d88ec1d7",
+      "ItemID": "a5208778-e28d-4046-9894-1889f80eeb50",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-06-13 15:12:47.600",
+      "ModifiedOn": "2023-06-14 09:36:00.000",
+      "Price": "2800.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "c1e11372-ee5d-4029-b215-8a040a8944bd",
+      "ItemID": "a7c0e998-9150-4118-a283-a61305ae77dd",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:16:32.917",
+      "ModifiedOn": "2022-12-06 15:16:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "1ace1831-e394-4117-82fb-4edb6502e95d",
+      "ItemID": "afd0bbdd-85d5-40af-986a-ba46c497661e",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:47:51.770",
+      "ModifiedOn": "2022-12-06 15:47:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "974f0416-6e47-48bd-a66b-53deb5c73670",
+      "ItemID": "b7bf6ba0-ec12-4b9d-8ab6-190f6daea364",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-19 13:17:52.457",
+      "ModifiedOn": "2023-01-19 13:17:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "aaaed081-4a74-4964-9149-ca62049ecf67",
+      "ItemID": "b856fd49-bcab-412a-a429-cc9e2fa18d8b",
+      "UomLabel": "Box",
+      "Active": "True",
+      "CreatedOn": "2023-01-19 13:17:12.983",
+      "ModifiedOn": "2023-01-19 13:17:13.007",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "e82fee5c-9626-46f8-bd01-d511205c3a1c",
+      "ItemID": "b856fd49-bcab-412a-a429-cc9e2fa18d8b",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-12 18:26:52.547",
+      "ModifiedOn": "2022-12-28 11:53:00.000",
+      "Price": "0.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "0018f95d-2d07-49b9-9ea0-7cf964ce6db7",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "box(4)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:21:20.303",
+      "ModifiedOn": "2023-03-09 16:33:18.767",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "12430896-9b3e-4b3a-8147-5f81047aa310",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "box(3)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:21:08.220",
+      "ModifiedOn": "2023-03-09 16:33:20.670",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "1811efc1-30a6-498f-9db9-6fa762a8f33d",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "dcdc(1)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:23:41.913",
+      "ModifiedOn": "2023-03-09 16:33:23.790",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "2c47ee6d-3c4f-41bb-85e0-68dd71e196ba",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "dad",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:34:14.387",
+      "ModifiedOn": "2023-03-08 15:22:57.647",
+      "Price": "0",
+      "DisplayOrder": "10"
+    },
+    {
+      "ItemUOMID": "31e8e7dc-d60c-4263-979b-086d692386ea",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "box(5)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:33:11.163",
+      "ModifiedOn": "2023-03-09 16:33:27.017",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "ebc3b3a8-5535-43c0-836b-5162736a7017",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "rt",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 15:00:37.257",
+      "ModifiedOn": "2023-03-08 15:23:12.767",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "ece932ad-61f5-44c1-801b-d4dcdba0d492",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "pp",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:50:27.393",
+      "ModifiedOn": "2023-03-08 15:23:10.647",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "f745e192-5447-433d-8f97-feafca1919d5",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "PCs(1)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:58:28.887",
+      "ModifiedOn": "2023-03-10 10:49:16.553",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "f79968f4-551a-4035-be88-c71005da277f",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "PCs",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 13:54:47.203",
+      "ModifiedOn": "2023-03-09 16:54:12.137",
+      "Price": "200.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "afc57e15-c100-4dfb-b9a6-d7b680a86403",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "box(1)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:08:57.587",
+      "ModifiedOn": "2023-03-09 16:33:39.617",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "b319ba67-a539-4a47-869f-706576be3188",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "hj",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:49:22.620",
+      "ModifiedOn": "2023-03-08 15:22:52.707",
+      "Price": "0",
+      "DisplayOrder": "12"
+    },
+    {
+      "ItemUOMID": "b33fcc08-8057-4fd1-a84c-c041534c256a",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "sar",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 13:55:36.027",
+      "ModifiedOn": "2023-03-08 15:23:03.760",
+      "Price": "0",
+      "DisplayOrder": "4"
+    },
+    {
+      "ItemUOMID": "bb2d4237-6393-4e63-91fb-247b942df7c0",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "dcdc",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:23:34.917",
+      "ModifiedOn": "2023-03-09 16:33:41.520",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "cfc3575b-571a-4444-a22e-3b0ac7d47811",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "PCs",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:54:18.260",
+      "ModifiedOn": "2023-03-10 10:48:28.123",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "dd37279a-77a4-4d60-9aae-4aa978587062",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "dede",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:48:23.920",
+      "ModifiedOn": "2023-03-08 15:22:59.820",
+      "Price": "0",
+      "DisplayOrder": "10"
+    },
+    {
+      "ItemUOMID": "5a3251a7-8282-4ae6-9114-c158abc7e70a",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "kuku",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 14:47:27.790",
+      "ModifiedOn": "2023-03-08 15:22:55.170",
+      "Price": "0",
+      "DisplayOrder": "10"
+    },
+    {
+      "ItemUOMID": "659a3fa5-ce93-4140-a08a-c6ec11b7115b",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "box(2)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:12:52.260",
+      "ModifiedOn": "2023-03-09 16:33:28.993",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "72a3bff8-94a3-41cc-95dd-afae46bca96c",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "box",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 15:58:01.597",
+      "ModifiedOn": "2023-03-09 16:33:31.703",
+      "Price": "2000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "7809fd6a-54ea-4747-9c08-6910283b2e72",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "bar",
+      "Active": "False",
+      "CreatedOn": "2023-03-08 13:55:29.430",
+      "ModifiedOn": "2023-03-08 15:23:06.583",
+      "Price": "0",
+      "DisplayOrder": "4"
+    },
+    {
+      "ItemUOMID": "99ffeaab-abe0-4429-9b1d-2c132f411e9a",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "PCs(2)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:15:40.220",
+      "ModifiedOn": "2023-03-09 16:33:37.473",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "ae9be93a-805a-4bd9-8847-3f078a7b2f05",
+      "ItemID": "b85a6e5e-e061-47e2-be46-5f745a0c224f",
+      "UomLabel": "PCs(1)",
+      "Active": "False",
+      "CreatedOn": "2023-03-09 16:10:51.340",
+      "ModifiedOn": "2023-03-09 16:33:34.883",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "5d49d149-068e-4fef-a7f6-6050f53de568",
+      "ItemID": "bb14343b-630b-4b08-b3c9-57f27e929ee4",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 10:19:33.593",
+      "ModifiedOn": "2022-12-06 10:19:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "203f0ca9-bc21-4213-997a-f429c2c4a00c",
+      "ItemID": "bb9e6600-3583-4def-8875-df8134ddf286",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-27 09:49:18.533",
+      "ModifiedOn": "2022-12-27 09:49:00.000",
+      "Price": "29000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "32a3decb-7c08-4b1f-8064-51bd5442c989",
+      "ItemID": "bf55dfb6-bd44-4599-8701-8d4d7012c7a1",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-06-14 09:11:32.060",
+      "ModifiedOn": "2023-06-14 09:11:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "724c2815-51f0-44be-9c25-e60865ad3b0b",
+      "ItemID": "c400477f-8dd4-4757-82cc-66840aaab9d6",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-11-10 08:50:01.853",
+      "ModifiedOn": "2023-11-10 08:53:00.000",
+      "Price": "3000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "c3b29904-86b0-4da3-9aab-6b83c3a5dca3",
+      "ItemID": "c4f88f51-1ad8-40ae-b716-c13b7e862aab",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-28 15:05:04.840",
+      "ModifiedOn": "2022-11-28 15:05:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "a3db80ee-f834-4f19-9cf4-1c80b1a98c72",
+      "ItemID": "c79734f0-17dd-476f-bc65-c025517c9bfb",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-10 12:56:19.290",
+      "ModifiedOn": "2023-05-10 12:57:00.000",
+      "Price": "6000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "4be6e2ea-110d-4bea-896c-33213945a8ec",
+      "ItemID": "c918f759-f06a-4f65-9f16-ffccae7afd0c",
+      "UomLabel": "Park",
+      "Active": "True",
+      "CreatedOn": "2023-05-10 11:02:04.260",
+      "ModifiedOn": "2023-05-10 11:02:04.273",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "b0d0e08c-6464-412c-aecd-c6c35ff5cb32",
+      "ItemID": "c918f759-f06a-4f65-9f16-ffccae7afd0c",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-10 10:20:52.340",
+      "ModifiedOn": "2023-05-10 10:21:00.000",
+      "Price": "999.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "673b6ec4-b6ef-4d53-a183-768ecb722c18",
+      "ItemID": "ca1c1b83-570a-45ce-843e-86030417a32d",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-25 12:10:47.400",
+      "ModifiedOn": "2023-01-25 12:15:00.000",
+      "Price": "7000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "88c7f9f7-1d6d-41ee-a5a2-b83617cd89ae",
+      "ItemID": "ca1c1b83-570a-45ce-843e-86030417a32d",
+      "UomLabel": "Box",
+      "Active": "True",
+      "CreatedOn": "2023-02-02 13:24:41.173",
+      "ModifiedOn": "2023-03-21 09:18:00.000",
+      "Price": "20000.00",
+      "DisplayOrder": "0"
+    },
+    {
+      "ItemUOMID": "104b05de-7cb5-4ff6-86f2-012e8234432e",
+      "ItemID": "cc2dfb53-5e3d-4f10-a8ef-65cddf3218fd",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-06 15:49:42.733",
+      "ModifiedOn": "2022-12-06 15:49:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "f07719cb-66c9-4ee5-bf15-085650b56255",
+      "ItemID": "d5d106d7-06a9-4050-93bc-7c1c642bff9a",
+      "UomLabel": "Ka Kar Car",
+      "Active": "True",
+      "CreatedOn": "2023-06-13 14:11:35.197",
+      "ModifiedOn": "2023-06-13 14:11:00.000",
+      "Price": "2000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "fe3cdc8f-0f87-4637-a739-07f59862b147",
+      "ItemID": "d5d106d7-06a9-4050-93bc-7c1c642bff9a",
+      "UomLabel": "Sakura",
+      "Active": "True",
+      "CreatedOn": "2023-06-13 14:59:49.113",
+      "ModifiedOn": "2023-07-26 15:31:00.000",
+      "Price": "1000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "b51e824b-aa23-4722-90b4-71444de5d29b",
+      "ItemID": "d647e1cd-e786-4078-ab38-6347248727f9",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-08-09 15:53:47.857",
+      "ModifiedOn": "2023-08-09 15:53:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "00a19416-3c0f-4c7f-9db6-0c63d15e9306",
+      "ItemID": "d9df6a67-baa0-4b08-a30d-290a61584fdb",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-11-10 11:32:11.243",
+      "ModifiedOn": "2023-11-10 11:32:00.000",
+      "Price": "4000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "a74a9425-e9fb-4c0d-9745-c3f56dec265e",
+      "ItemID": "de211f65-1d9d-4245-bdd8-bcae63bcccbe",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-19 15:25:40.203",
+      "ModifiedOn": "2023-03-15 14:31:00.000",
+      "Price": "12000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "e221ccd9-2c8a-47d7-949d-4ca52ddbfe13",
+      "ItemID": "de211f65-1d9d-4245-bdd8-bcae63bcccbe",
+      "UomLabel": "Box",
+      "Active": "False",
+      "CreatedOn": "2023-01-19 13:31:41.793",
+      "ModifiedOn": "2023-01-19 15:04:00.893",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "f92ac359-23ee-40e8-ad6d-834d23f6b26b",
+      "ItemID": "de211f65-1d9d-4245-bdd8-bcae63bcccbe",
+      "UomLabel": "PCs",
+      "Active": "False",
+      "CreatedOn": "2023-01-19 13:19:23.717",
+      "ModifiedOn": "2023-01-19 14:56:00.000",
+      "Price": "100000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "badebf2e-4235-4956-82c6-f5b8760c394d",
+      "ItemID": "deee346c-91e6-47a8-a069-bca2a4a5d248",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-01-27 11:55:34.270",
+      "ModifiedOn": "2023-01-27 11:57:00.000",
+      "Price": "1000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "c037456d-358b-46ce-9a44-fd805abbff82",
+      "ItemID": "e3cbdbf7-5d17-4651-852f-5b49011f3d2d",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-12-27 09:41:55.793",
+      "ModifiedOn": "2022-12-27 09:45:00.000",
+      "Price": "3000000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "2da1412a-9fad-4eba-ae99-90c2f5ae64a7",
+      "ItemID": "e5c6d5fe-0453-42dd-95b7-0470dd1db8a9",
+      "UomLabel": "dd",
+      "Active": "False",
+      "CreatedOn": "2023-03-07 15:43:24.147",
+      "ModifiedOn": "2023-03-07 15:46:31.030",
+      "Price": "0",
+      "DisplayOrder": "3"
+    },
+    {
+      "ItemUOMID": "6fe3124e-e513-409f-ab52-8889dc4ff354",
+      "ItemID": "e5c6d5fe-0453-42dd-95b7-0470dd1db8a9",
+      "UomLabel": "ppp",
+      "Active": "False",
+      "CreatedOn": "2023-03-07 15:41:34.360",
+      "ModifiedOn": "2023-03-07 15:43:17.417",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "d369ebf9-45ab-433d-a487-f5753fa2c1df",
+      "ItemID": "e6e0ef04-733a-4d5b-af0d-2719200da21e",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-02 10:58:36.573",
+      "ModifiedOn": "2023-03-14 08:52:00.000",
+      "Price": "1000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "3415086c-0345-4f7b-9acd-be06715df04d",
+      "ItemID": "e775780f-275c-4ef2-af95-78b7109383ef",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-08-09 14:48:37.840",
+      "ModifiedOn": "2023-08-09 14:49:00.000",
+      "Price": "25000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "2b528290-a50e-40f7-a3b1-14037be0782a",
+      "ItemID": "ea02b962-c9b1-4121-91f1-5d018c2d4784",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-01 07:11:31.777",
+      "ModifiedOn": "2023-02-01 13:29:00.000",
+      "Price": "7800.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "4da8855d-5897-41bc-8c4b-5a1fe0dde64b",
+      "ItemID": "ea02b962-c9b1-4121-91f1-5d018c2d4784",
+      "UomLabel": "Box",
+      "Active": "True",
+      "CreatedOn": "2023-02-01 13:32:01.363",
+      "ModifiedOn": "2023-02-01 13:32:03.763",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "08bbaf10-271f-49f0-82a0-799cb0ebce68",
+      "ItemID": "f4783d44-faa2-4f4f-8471-1aaf5a3b31ef",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-19 13:27:25.690",
+      "ModifiedOn": "2022-10-19 13:36:00.000",
+      "Price": "125000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "fff6a5e5-4e4f-465b-9915-afd3a7f4198e",
+      "ItemID": "f511a67f-d27c-4791-a70e-346b5cc9bd82",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-24 10:39:54.193",
+      "ModifiedOn": "2022-11-24 10:42:00.000",
+      "Price": "1000000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "1f64036a-0ae3-44bf-bfea-eadb634f5ba7",
+      "ItemID": "f75f7f78-fc1c-472b-8598-f814a463bb87",
+      "UomLabel": "oo",
+      "Active": "False",
+      "CreatedOn": "2023-03-07 16:27:16.603",
+      "ModifiedOn": "2023-03-07 16:40:08.970",
+      "Price": "0",
+      "DisplayOrder": "8"
+    },
+    {
+      "ItemUOMID": "2e34a3a5-a3e4-4fb7-bfee-db65776a9286",
+      "ItemID": "f75f7f78-fc1c-472b-8598-f814a463bb87",
+      "UomLabel": "PCs",
+      "Active": "False",
+      "CreatedOn": "2023-03-07 14:33:45.710",
+      "ModifiedOn": "2023-03-08 15:49:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "53a02fb3-39f4-47d7-bf3a-bf7be77a3e9a",
+      "ItemID": "f75f7f78-fc1c-472b-8598-f814a463bb87",
+      "UomLabel": "lg",
+      "Active": "False",
+      "CreatedOn": "2023-03-07 16:12:09.817",
+      "ModifiedOn": "2023-03-07 16:20:11.000",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "74d96947-bb08-439f-b648-69000bf39b82",
+      "ItemID": "f75f7f78-fc1c-472b-8598-f814a463bb87",
+      "UomLabel": "pp",
+      "Active": "False",
+      "CreatedOn": "2023-03-07 16:40:16.283",
+      "ModifiedOn": "2023-03-07 16:40:55.230",
+      "Price": "0",
+      "DisplayOrder": "9"
+    },
+    {
+      "ItemUOMID": "bc409fa2-8f39-45d9-a289-3300195010ba",
+      "ItemID": "f8adcbc1-7886-43c0-9dc1-02caf602eeaf",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-08-09 14:41:29.833",
+      "ModifiedOn": "2023-08-09 14:43:00.000",
+      "Price": "25000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "776dd84a-464c-4fc9-b83a-1f0de42e10a8",
+      "ItemID": "f8ef0728-573f-4843-8cb7-57fa28bbbaf7",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-19 14:27:40.560",
+      "ModifiedOn": "2022-10-19 14:27:00.000",
+      "Price": "0.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "d370ed97-9e54-4e08-b533-56eac3821718",
+      "ItemID": "f9ddec1d-3982-48ae-9fc3-46b6527b6caa",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-05-12 14:11:31.853",
+      "ModifiedOn": "2023-05-12 14:11:00.000",
+      "Price": "10000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "27f92461-c6e5-44b8-b572-730cb9476ec8",
+      "ItemID": "fa8a870d-851c-4b99-bfd2-5fff8a64c1fb",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-29 13:25:37.023",
+      "ModifiedOn": "2022-11-29 13:26:00.000",
+      "Price": "10000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "8674e11f-4777-459a-8758-5ddef29afe62",
+      "ItemID": "fc11bbc1-0fbc-42fa-b65d-cc912ded3bf3",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-20 09:18:29.230",
+      "ModifiedOn": "2022-10-20 09:25:00.000",
+      "Price": "0.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "555a3147-4842-4343-a166-f98977a33b96",
+      "ItemID": "fd4b8066-08f9-473a-af4c-f21183c7e54f",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-02-02 11:03:03.650",
+      "ModifiedOn": "2023-02-02 11:24:00.000",
+      "Price": "100000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "8a8da549-0990-4546-bc15-d3fe91cdd9d7",
+      "ItemID": "fd4b8066-08f9-473a-af4c-f21183c7e54f",
+      "UomLabel": "PCs(1)",
+      "Active": "False",
+      "CreatedOn": "2023-02-02 11:10:55.240",
+      "ModifiedOn": "2023-02-02 11:10:59.207",
+      "Price": "0",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "b12247f8-fa60-484c-b174-326585c1a1ae",
+      "ItemID": "fd4b8066-08f9-473a-af4c-f21183c7e54f",
+      "UomLabel": "Box",
+      "Active": "True",
+      "CreatedOn": "2023-02-02 11:11:38.997",
+      "ModifiedOn": "2023-02-06 16:07:00.000",
+      "Price": "100000.00",
+      "DisplayOrder": "0"
+    },
+    {
+      "ItemUOMID": "2aa3b6a8-f6aa-4433-87b5-7fa64f2e890c",
+      "ItemID": "686fee80-b4dc-48e7-b575-ea0d8df138c2",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-03-13 10:38:15.593",
+      "ModifiedOn": "2023-03-13 10:38:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "2d3b65ab-50bd-47d9-b8ab-d6b2525d6f04",
+      "ItemID": "a89dffc5-df55-4458-93ec-1ba24c9cbeeb",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-03-13 10:00:36.333",
+      "ModifiedOn": "2023-03-13 10:01:00.000",
+      "Price": "500000.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "39df8040-fab5-4713-ac24-69b41d5f58c3",
+      "ItemID": "b05270da-0b8f-40e0-b6e8-c4c11c088c53",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-03-22 10:07:03.510",
+      "ModifiedOn": "2023-03-22 10:07:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "ab96353d-1845-450c-8e7d-99178138b7ac",
+      "ItemID": "1bab276e-3360-450a-932f-0d267d3fc40f",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-03-23 13:13:47.287",
+      "ModifiedOn": "2023-03-23 13:13:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "2be2ec8e-8518-44cb-af38-d51ae1b405fe",
+      "ItemID": "673f1d47-8573-42cd-8141-e918ef91afb3",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-11-23 16:05:59.840",
+      "ModifiedOn": "2022-11-23 16:06:00.000",
+      "Price": "0.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "873b136a-09e2-44df-96f6-e3de1a74e59b",
+      "ItemID": "9a7087d9-49e7-4346-a0dc-abb2cf5ec1f6",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2023-03-22 13:59:22.963",
+      "ModifiedOn": "2023-03-22 13:59:00.000",
+      "Price": "1.00",
+      "DisplayOrder": "1"
+    },
+    {
+      "ItemUOMID": "c5ded8e7-a2d3-4ecc-b5d3-e929bbabe242",
+      "ItemID": "9a7087d9-49e7-4346-a0dc-abb2cf5ec1f6",
+      "UomLabel": "Box",
+      "Active": "True",
+      "CreatedOn": "2023-03-22 14:59:12.500",
+      "ModifiedOn": "2023-03-22 14:59:12.553",
+      "Price": "0",
+      "DisplayOrder": "2"
+    },
+    {
+      "ItemUOMID": "48c4311c-3c81-45b8-b9ad-0a47d14bdabd",
+      "ItemID": "1f2f3c2b-ff2a-4a31-84c9-af256334c228",
+      "UomLabel": "PCs",
+      "Active": "True",
+      "CreatedOn": "2022-10-12 19:00:44.980",
+      "ModifiedOn": "2023-02-10 13:25:00.000",
+      "Price": "50000.00",
+      "DisplayOrder": "1"
+    }
+  ],
+  "ResponseInfo": { "Code": "0", "Message": "Success" }
+}

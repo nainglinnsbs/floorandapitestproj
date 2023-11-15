@@ -25,11 +25,11 @@ class ItemLocalService {
     return await _dao.getItemName(id);
   }
 
-  Future<void> addOne(ItemDto product) async {
-    await _dao.insertOne(product);
+  Future<void> addOne(ItemDto item) async {
+    await _dao.insertOne(item);
   }
 
-  Future<List<int>> addAll(List<ItemDto> products) async {
-    return await _dao.insertMany(products);
+  Future<List<int>> addAll(List<ItemDto> items) async {
+    return await _dao.insertMany(items);
   }
 }
